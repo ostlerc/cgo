@@ -9,7 +9,9 @@ import (
 
 func main() {
 	ex1.Greet()
+
 	str.Greet()
 	str.Test()
+
 	fmt.Println("BYE")
 }
